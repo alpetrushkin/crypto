@@ -1,0 +1,16 @@
+.filterBlock {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 12px;
+    gap: 12px;
+}
+
+.input {
+    padding: 10px 15px;
+    border-radius: 12px;
+    background-color: #fff;
+    border: none;
+}
